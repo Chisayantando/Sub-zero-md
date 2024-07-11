@@ -7,7 +7,7 @@ Sub-zero
 
 <p align="center">
   <a href="https://github.com/Cod3Uchiha">
-    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/fb3ca78607be678182118.jpg">
+    <img alt="TKM bot logo" height="500" src="https://telegra.ph/file/fb3ca78607be678182118.jpg">
   </a>
 </p>
 
@@ -18,7 +18,7 @@ Sub-zero
   <a href="https://github.com/Cod3Uchiha/TKM-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cod3Uchiha/TKM-bot?label=Watching&style=social"></a>
 </p>
 
- **TKM-bot Deployment Methods**
+ **Sub-zero Deployment Methods**
 
 •FORK THIS REPO
  <br>
