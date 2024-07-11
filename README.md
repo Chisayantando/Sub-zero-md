@@ -1,13 +1,13 @@
 <p align="center">
-TKM bot v²
+Sub-zero
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TKM-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000080&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +Sub-zero;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
   <a href="https://github.com/Cod3Uchiha">
-    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg">
+    <img alt="TKM bot logo" height="200" src="https://telegra.ph/file/fb3ca78607be678182118.jpg">
   </a>
 </p>
 
@@ -43,41 +43,5 @@ TKM bot v²
 •If you don't have an account in RENDER, create one and deploy.
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-
-**DEPLOY ON REPLIT**
-
-[not RECOMMENDED for now,don't even try it]
-
-•Deploy.
-    <br>
-    <a href='https://replit.com/github/Cod3Uchiha/TKM-bot' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-**•Koyeb and Render Deploy now available**
-
-_Termux Setup not recommended_
-
-**DEVELOPERS**
-
-<table>
-  <tr>
-    <td>Danny</td>
-    <td>Cod3Uchiha</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/DannyAkintunde"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
-    <td><a href="https://github.com/Cod3Uchiha"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="180"</td>
-  </tr>
-</table>
-
-**contributors**
-
-```
-Lazak28•fixed Heroku ban
-```
-```
-Beltahmd•fixed sleeping problem
-```
-
-* [🧑‍💻 Follow The Cod3Uchiha whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g)
 
 
