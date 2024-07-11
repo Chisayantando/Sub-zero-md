@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' _TKM-bot_ is running on server 99. ')
+repondre(' - Sub-zero is running on server 959. ')
 
 }
     });
